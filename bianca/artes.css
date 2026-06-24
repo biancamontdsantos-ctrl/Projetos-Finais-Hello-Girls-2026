@@ -1,0 +1,15 @@
+h1, h2{
+    width: 80%;
+    background-color: rgba(133, 8, 8, 0.582);
+    border: 5px dashed rgb(184, 0, 0);
+    text-align: center;
+    margin: auto;
+}
+
+h3{
+    width: 80%;
+    background-color: rgba(82, 0, 114, 0.582);
+    border: 5px dashed rgb(143, 37, 214);
+    text-align: center;
+    margin: auto;
+}
